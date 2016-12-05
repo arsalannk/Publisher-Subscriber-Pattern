@@ -1,0 +1,5 @@
+E:\Personal Projects\Publish Subscribe Pattern EventAgregator\Publish Subscribe Pattern EventAgregator\bin\Debug\Publish Subscribe Pattern EventAgregator.exe.config
+E:\Personal Projects\Publish Subscribe Pattern EventAgregator\Publish Subscribe Pattern EventAgregator\bin\Debug\Publish Subscribe Pattern EventAgregator.exe
+E:\Personal Projects\Publish Subscribe Pattern EventAgregator\Publish Subscribe Pattern EventAgregator\bin\Debug\Publish Subscribe Pattern EventAgregator.pdb
+E:\Personal Projects\Publish Subscribe Pattern EventAgregator\Publish Subscribe Pattern EventAgregator\obj\Debug\Publish Subscribe Pattern EventAgregator.exe
+E:\Personal Projects\Publish Subscribe Pattern EventAgregator\Publish Subscribe Pattern EventAgregator\obj\Debug\Publish Subscribe Pattern EventAgregator.pdb
